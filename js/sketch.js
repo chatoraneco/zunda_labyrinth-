@@ -83,17 +83,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(90,375);
-	// floor.width = 10;
-	// floor.height = 80;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
-
-	// floor = new Sprite(90,455);
-	// floor.width = 10;
-	// floor.height = 80;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
 
 
 	floor = new Sprite(170,55);
@@ -108,11 +98,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(170,215);
-	// floor.width = 10;
-	// floor.height = 80;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
 
 	floor = new Sprite(170,295);
 	floor.width = 10;
@@ -120,17 +106,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(170,375);
-	// floor.width = 10;
-	// floor.height = 80;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
-
-	// floor = new Sprite(170,455);
-	// floor.width = 10;
-	// floor.height = 80;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
 
 
 	floor = new Sprite(250,55);
@@ -139,12 +115,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(250,135);
-	// floor.width = 10;
-	// floor.height = 80;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
-
+	
 	floor = new Sprite(250,215);
 	floor.width = 10;
 	floor.height = 80;
@@ -157,11 +128,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(250,375);
-	// floor.width = 10;
-	// floor.height = 80;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
 
 	floor = new Sprite(250,455);
 	floor.width = 10;
@@ -176,11 +143,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(330,135);
-	// floor.width = 10;
-	// floor.height = 80;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
 
 	floor = new Sprite(330,215);
 	floor.width = 10;
@@ -194,17 +157,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(330,375);
-	// floor.width = 10;
-	// floor.height = 80;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
-
-	// floor = new Sprite(330,455);
-	// floor.width = 10;
-	// floor.height = 80;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
 
 
 	floor = new Sprite(410,55);
@@ -213,11 +166,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(410,135);
-	// floor.width = 10;
-	// floor.height = 80;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
 
 	floor = new Sprite(410,215);
 	floor.width = 10;
@@ -244,11 +193,7 @@ function setup(){
 	floor.collider = "static";//物理演算無効
 
 
-	// floor = new Sprite(490,55);
-	// floor.width = 10;
-	// floor.height = 80;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
 
 	floor = new Sprite(490,135);
 	floor.width = 10;
@@ -268,11 +213,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(490,375);
-	// floor.width = 10;
-	// floor.height = 80;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
 
 	floor = new Sprite(490,455);
 	floor.width = 10;
@@ -281,12 +222,7 @@ function setup(){
 	floor.collider = "static";//物理演算無効
 
 
-	// floor = new Sprite(570,55);
-	// floor.width = 10;
-	// floor.height = 80;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
-
+	
 	floor = new Sprite(570,135);
 	floor.width = 10;
 	floor.height = 80;
@@ -299,11 +235,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(570,295);
-	// floor.width = 10;
-	// floor.height = 80;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
 
 	floor = new Sprite(570,375);
 	floor.width = 10;
@@ -330,11 +262,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(650,215);
-	// floor.width = 10;
-	// floor.height = 80;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
 
 	floor = new Sprite(650,295);
 	floor.width = 10;
@@ -355,11 +283,8 @@ function setup(){
 	floor.collider = "static";//物理演算無効
 
 
-	// floor = new Sprite(730,55);
-	// floor.width = 10;
-	// floor.height = 80;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
+
 
 	floor = new Sprite(730,135);
 	floor.width = 10;
@@ -373,12 +298,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(730,295);
-	// floor.width = 10;
-	// floor.height = 80;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
-
+	
 	floor = new Sprite(730,375);
 	floor.width = 10;
 	floor.height = 80;
@@ -392,11 +312,7 @@ function setup(){
 	floor.collider = "static";//物理演算無効
 
 
-	// floor = new Sprite(810,55);
-	// floor.width = 10;
-	// floor.height = 80;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
 
 	floor = new Sprite(810,135);
 	floor.width = 10;
@@ -404,24 +320,14 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(810,215);
-	// floor.width = 10;
-	// floor.height = 80;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
-
+	
 	floor = new Sprite(810,295);
 	floor.width = 10;
 	floor.height = 80;
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(810,375);
-	// floor.width = 10;
-	// floor.height = 80;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
-
+	
 	floor = new Sprite(810,455);
 	floor.width = 10;
 	floor.height = 80;
@@ -435,11 +341,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(890,135);
-	// floor.width = 10;
-	// floor.height = 80;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
 
 	floor = new Sprite(890,215);
 	floor.width = 10;
@@ -459,11 +361,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(890,455);
-	// floor.width = 10;
-	// floor.height = 80;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
 
 
 	floor = new Sprite(55,60);
@@ -472,11 +370,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(135,60);
-	// floor.width = 80;
-	// floor.height = 10;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
 
 	floor = new Sprite(215,60);
 	floor.width = 80;
@@ -496,11 +390,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(455,60);
-	// floor.width = 80;
-	// floor.height = 10;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+
 
 	floor = new Sprite(535,60);
 	floor.width = 80;
@@ -508,11 +398,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(615,60);
-	// floor.width = 80;
-	// floor.height = 10;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
 
 	floor = new Sprite(695,60);
 	floor.width = 80;
@@ -520,11 +406,8 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(775,60);
-	// floor.width = 80;
-	// floor.height = 10;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
+
 
 	floor = new Sprite(855,60);
 	floor.width = 80;
@@ -532,12 +415,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(935,60);
-	// floor.width = 80;
-	// floor.height = 10;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
-
+	
 	
 	
 	floor = new Sprite(55,140);
@@ -552,12 +430,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(215,140);
-	// floor.width = 80;
-	// floor.height = 10;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
-
+	
 	floor = new Sprite(295,140);
 	floor.width = 80;
 	floor.height = 10;
@@ -576,23 +449,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(535,140);
-	// floor.width = 80;
-	// floor.height = 10;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
-
-	// floor = new Sprite(615,140);
-	// floor.width = 80;
-	// floor.height = 10;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
-
-	// floor = new Sprite(695,140);
-	// floor.width = 80;
-	// floor.height = 10;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
 
 	floor = new Sprite(775,140);
 	floor.width = 80;
@@ -600,12 +457,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(855,140);
-	// floor.width = 80;
-	// floor.height = 10;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
-
+	
 	floor = new Sprite(935,140);
 	floor.width = 80;
 	floor.height = 10;
@@ -620,11 +472,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(135,220);
-	// floor.width = 80;
-	// floor.height = 10;
-	// floor.color = "yellowgreen"
-	floor.collider = "static";//物理演算無効
+	
 
 	floor = new Sprite(215,220);
 	floor.width = 80;
@@ -638,11 +486,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(375,220);
-	// floor.width = 80;
-	// floor.height = 10;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
 
 	floor = new Sprite(455,220);
 	floor.width = 80;
@@ -650,11 +494,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(535,220);
-	// floor.width = 80;
-	// floor.height = 10;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
 
 	floor = new Sprite(615,220);
 	floor.width = 80;
@@ -662,17 +502,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(695,220);
-	// floor.width = 80;
-	// floor.height = 10;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
-
-	// floor = new Sprite(775,220);
-	// floor.width = 80;
-	// floor.height = 10;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
 
 	floor = new Sprite(855,220);
 	floor.width = 80;
@@ -745,11 +575,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(775,300);
-	// floor.width = 80;
-	// floor.height = 10;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
 
 	floor = new Sprite(855,300);
 	floor.width = 80;
@@ -757,11 +583,6 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(935,300);
-	// floor.width = 80;
-	// floor.height = 10;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
 
 
 
@@ -780,11 +601,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(215,380);
-	// floor.width = 80;
-	// floor.height = 10;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
 
 	floor = new Sprite(295,380);
 	floor.width = 80;
@@ -822,17 +639,7 @@ function setup(){
 	floor.color = "yellowgreen"
 	floor.collider = "static";//物理演算無効
 
-	// floor = new Sprite(775,380);
-	// floor.width = 80;
-	// floor.height = 10;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
-
-	// floor = new Sprite(855,380);
-	// floor.width = 80;
-	// floor.height = 10;
-	// floor.color = "yellowgreen"
-	// floor.collider = "static";//物理演算無効
+	
 
 	floor = new Sprite(935,380);
 	floor.width = 80;
