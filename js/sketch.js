@@ -930,7 +930,7 @@ function draw(){
 
 	if(player != null){
 
-	}
+	
 
 	if(kb.presses("up")){
 		player.vel.y = -4;
@@ -947,7 +947,7 @@ function draw(){
 		player.vel.x = 2;
 	}
 
-
+	}
 
 	player.collides(clear,(a,b)=>{
 		// a.remove();
